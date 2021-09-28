@@ -3,11 +3,11 @@
 
 ## Ursprung und Erhebung
 
-Die Grundlage unseres Datensatzes bildet die Liste des Antifaschistischen Dokumentations- und Informationszentrum (https://www.adiz.info/landtagswahl-2021/ ). Da die Verantwortlichen dafür aber sehr links sind, überprüfen wir die Angaben noch einmal und ergänzen sie mit biographischen Angaben der Abgeordneten und weiterer Google-Recherche. 
+Unser Datensatz beinhaltet die AfD-Abgeordneten des Landtags Baden-Württemberg. Die weiteren Informationen stammen aus Web-Recherchen und sind meist aus Zeitungen, Blogs oder Berichten des Verfassungsschutzes, sowie den Social-Media-Profilen und Websites der Abgeordneten. Da die Quellen teilweise nicht zu 100% überprüfbar sind, versuchen wir möglichst mehrere Quellen für einen Fakt zu suchen, sodenn die erste Quelle nicht ein eigener Kanal der Person oder ein Qualitätsmedium ist.
 
 Das Netzwerk ist ein *ungerichtetes two-mode Netzwerk*.
 
-Dabei untersuchen wir die als rechtsextremistisch eingestuften Vereinigungen Junge Alternative, Flügel, Querdenken und Christen in der AfD und ihre Verbindung zur Partei Alternative für Deutschland und ihren Kandidat*innen für die Landtagswahl 2021 in Baden-Württemberg.
+Dabei untersuchen wir die als rechtsextremistisch eingestuften Vereinigungen Junge Alternative, Flügel (und die Erfurter Resolution), Querdenken und Christen in der AfD und ihre Verbindung zur Partei Alternative für Deutschland und ihren Kandidat*innen für die Landtagswahl 2021 in Baden-Württemberg.
 
 Wir unterscheiden zwischen drei Arten von Akteuren (Vereinigung, Partei, Privatperson) und drei verschiedenen Beziehungsarten zwischen den Akteuren (Mitglied, Sympathisant, Anhänger).
 

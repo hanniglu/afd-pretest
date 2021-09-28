@@ -86,7 +86,7 @@ Geburts-/ Gründungsjahr
 Nach Wahlkreisen 1-70, genaue Benennung folgt später
 
 
-**statement** 
+**statements** 
 
 Rechte Äußerungen in sozialen Medien oder bei Reden
 
@@ -98,6 +98,15 @@ Rechte Äußerungen in sozialen Medien oder bei Reden
 **protest** 
 
 Teilnahme an als rechts eingestuften Demonstrationen
+
+1=ja
+
+2=nein
+
+
+**erfurter** 
+
+Unterzeichner:in der "Erfurter Resolution", dem Gründungspapier des Höcke-Flügels
 
 1=ja
 

@@ -62,9 +62,13 @@ Nachname oder Name der Vereinigung
 Art des Akteurs
 
 
-1= Vereinigung
+1 = Vereinigung
 
-2= Privatperson
+2 = Landtagsabgeordnete
+
+3 = Bundestagsabgeordnete
+
+4 = Vorstand der Jungen Alternative
 
 
 **sex**
